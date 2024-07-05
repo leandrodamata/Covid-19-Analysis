@@ -3,6 +3,8 @@ Uma Análise de Dados dos Casos de Covid e o impacto desse no mundo
 
 Sabemos que a pandemia foi um momento muito triste na nossa vida, um momento atípico onde todos tivemos que nos isolar, usar máscaras, e se preocupar com um vírus extremamente contagioso, deixando todos preocupados com sua família e amigos. Neste contexto, achei importante verificar como essa doença impactou o mundo inteiro, portanto realizei uma pesquisa e encontrei o site da World Health Organization, um site contendo diversas informações sobre a doença e até mesmo alguns gráficos. Porém, alguns dados que eu considerava interessante, eu acabei não encontrando no site, assim resolvi utilizar a base de dados deles para construir um dashboard com algumas telas no Power BI para analisar melhor esse período.
 
+Para ter acesso aos dados que utilizei para este projeto, favor acessar o github da Wolrld Health Organization: https://github.com/owid/covid-19-data/blob/master/public/data/README.md
+
 Considerações: Analisei os dados informados nos anos de 2020 até 2023, para analisar mais precisamente o período mais crítico da pandemia e trazer dados mais assertivos.
 
 Resumo dos dados interessantes encontrados no projeto: 
