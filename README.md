@@ -1,5 +1,5 @@
 # Covid-19-Analysis
-Uma Análise de Dados dos Casos de Covid e o impacto desse no mundo
+Uma Análise de Dados dos Casos de Covid e o impacto dessa doença no mundo
 
 Sabemos que a pandemia foi um momento muito triste na nossa vida, um momento atípico onde todos tivemos que nos isolar, usar máscaras, e se preocupar com um vírus extremamente contagioso, deixando todos preocupados com sua família e amigos. Neste contexto, achei importante verificar como essa doença impactou o mundo inteiro, portanto realizei uma pesquisa e encontrei o site da World Health Organization, um site contendo diversas informações sobre a doença e até mesmo alguns gráficos. Porém, alguns dados que eu considerava interessante, eu acabei não encontrando no site, assim resolvi utilizar a base de dados deles para construir um dashboard com algumas telas no Power BI para analisar melhor esse período.
 
